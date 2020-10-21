@@ -180,6 +180,11 @@ padding-left:1em;}
       padding-bottom:5em;
       }
 
+      .map__set {   width:760px;
+        height:350px;
+        position:relative;
+        }
+
 
   /*|-----------------------|
     |-------- VENUES -------|
